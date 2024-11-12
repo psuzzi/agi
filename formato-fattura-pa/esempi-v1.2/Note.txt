@@ -1,0 +1,13 @@
+FatturaElettronicaHeader/CedentePrestatore
+- DatiAnagrafici/IdFiscaleIVA/IdCodice
+
+
+
+
+FatturaElettronicaBody/DatiGenerali/DatiGeneraliDocumento/Divisa
+FatturaElettronicaBody/DatiGenerali/DatiGeneraliDocumento/Data
+FatturaElettronicaBody/DatiGenerali/DatiGeneraliDocumento/Numero
+
+
+
+        <ModalitaPagamento>MP01</ModalitaPagamento>
